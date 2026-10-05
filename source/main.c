@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 	printf("\x1b[30;30HPress Start to exit.");
 	printf("\x1b[1;1HRoses are \x1b[31mred\x1b[0m,\n");
 	printf("Violets are \x1b[34mblue\x1b[0m,\n");		
-	printf("\x1b[34mrus\x1b[0msi\x1b[31mans\x1b[0m are \x1b[47;31mterrorists.\x1b[0m\n");
+	printf("rus\x1b[34msi\x1b[31mans\x1b[0m are \x1b[47;31mterrorists.\x1b[0m\n");
 	printf("Valeika are \x1b[33mGLORIOUS\x1b[0m;");
 
 	consoleSelect(&bottomScreen);
