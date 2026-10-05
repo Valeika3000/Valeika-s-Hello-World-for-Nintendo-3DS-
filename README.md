@@ -1,5 +1,5 @@
 # Valeika's Hello World! (for Nintendo 3DS)
-### It's a simple code by devkitPro for Nintendo 3DS.
+### It's my first and simple Homebrew app by devkitPro for Nintendo 3DS.
 # How to download
 ## Download .3dsx
 Just download <b>.3dsx</b> from [Releases](https://github.com/Valeika3000/Valeika-s-Hello-World-for-Nintendo-3DS-/releases) page and drop it to `sdmc:\3ds` on your Nintendo 3DS (or emulator...)
